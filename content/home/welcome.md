@@ -19,4 +19,4 @@ design:
 
 <br>
 
-Our research is centred on understanding the past, present, and future Earth system, with a focus on climate and biogeochemical modelling, and geochemistry.
+Our research is centred on understanding the past, present, and future Earth system, with a focus on **climate, biogeochemical modelling, and geochemistry**.
