@@ -7,8 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Testing
-  Header 2
+  Bristol Research Initiative for the Dynamic Global Environment (BRIDGE)
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Our research is centred on understanding the past, present, and future Earth system, with a focus on climate and biogeochemical modelling, and geochemistry.
